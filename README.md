@@ -1,4 +1,6 @@
-# [Advent Of Code 2015](https://adventofcode.com/2015) Solutions in C#
+# Advent Of Code 2015
+
+[Advent Of Code 2015](https://adventofcode.com/2015) Solutions in C#
 
 ## Progress
 
